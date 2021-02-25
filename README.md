@@ -25,8 +25,8 @@ Welcome to the long needed GUR Trainer 4.0. This is a version that mostly just b
 <a href="https://discord.gg/WDxyqPB" title="DISCORD">
     <img src="/%40Resources/blue.png">
 </a>
-<a href="https://discord.gg/WDxyqPB" title="WIKI">
-    <img src="/%40Resources/orange.png">
+<a href="https://github.com/SensualPudd/GURTrainer-4/wiki" title="WIKI">
+    <img src="/%40Resources/Orange.png">
 </a>
 
 <br></br>
