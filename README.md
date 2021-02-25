@@ -19,6 +19,6 @@ Welcome to the long needed GUR Trainer 4.0. This is a version that mostly just b
 ## Changes
 
 
-<a download="custom-filename.jpg" href="GURTrainer-4/@Resources/Pink.png" title="ImageName">
-    <img src="GURTrainer-4/@Resources/Pink.png">
+<a download="custom-filename.jpg" href="GURTrainer-4/%40Resources/Pink.png" title="ImageName">
+    <img src="GURTrainer-4/%40Resources/Pink.png">
 </a>
