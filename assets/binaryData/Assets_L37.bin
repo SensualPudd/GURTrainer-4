@@ -1,0 +1,102 @@
+<level>
+  <width>320</width>
+  <height>240</height>
+  <solids>
+    <rect x="0" y="0" w="320" h="8"/>
+    <rect x="0" y="8" w="208" h="8"/>
+    <rect x="0" y="16" w="200" h="8"/>
+    <rect x="0" y="24" w="192" h="8"/>
+    <rect x="0" y="32" w="184" h="8"/>
+    <rect x="0" y="40" w="176" h="8"/>
+    <rect x="0" y="48" w="168" h="8"/>
+    <rect x="0" y="56" w="160" h="8"/>
+    <rect x="0" y="64" w="152" h="8"/>
+    <rect x="0" y="72" w="144" h="8"/>
+    <rect x="0" y="80" w="136" h="8"/>
+    <rect x="0" y="88" w="128" h="8"/>
+    <rect x="0" y="96" w="120" h="8"/>
+    <rect x="0" y="104" w="112" h="8"/>
+    <rect x="0" y="112" w="104" h="8"/>
+    <rect x="0" y="120" w="96" h="8"/>
+    <rect x="0" y="128" w="88" h="8"/>
+    <rect x="0" y="136" w="80" h="8"/>
+    <rect x="0" y="144" w="72" h="8"/>
+    <rect x="0" y="152" w="64" h="8"/>
+    <rect x="0" y="160" w="56" h="8"/>
+    <rect x="0" y="168" w="48" h="8"/>
+    <rect x="0" y="176" w="40" h="8"/>
+    <rect x="0" y="232" w="320" h="8"/>
+    <rect x="96" y="224" w="224" h="8"/>
+    <rect x="104" y="216" w="216" h="8"/>
+    <rect x="112" y="208" w="208" h="8"/>
+    <rect x="120" y="200" w="200" h="8"/>
+    <rect x="128" y="192" w="192" h="8"/>
+    <rect x="136" y="184" w="184" h="8"/>
+    <rect x="144" y="176" w="176" h="8"/>
+    <rect x="152" y="168" w="168" h="8"/>
+    <rect x="160" y="160" w="160" h="8"/>
+    <rect x="168" y="152" w="152" h="8"/>
+    <rect x="176" y="144" w="144" h="8"/>
+    <rect x="184" y="136" w="136" h="8"/>
+    <rect x="192" y="128" w="128" h="8"/>
+    <rect x="200" y="120" w="120" h="8"/>
+    <rect x="208" y="112" w="112" h="8"/>
+    <rect x="216" y="104" w="104" h="8"/>
+    <rect x="224" y="96" w="96" h="8"/>
+    <rect x="232" y="88" w="88" h="8"/>
+    <rect x="240" y="80" w="80" h="8"/>
+    <rect x="248" y="72" w="72" h="8"/>
+    <rect x="256" y="64" w="64" h="8"/>
+    <rect x="264" y="48" w="56" h="16"/>
+  </solids>
+  <objects>
+    <electricBlock x="88" y="224" width="8" height="8"/>
+    <electricBlock x="96" y="216" width="8" height="8"/>
+    <electricBlock x="104" y="208" width="8" height="8"/>
+    <electricBlock x="112" y="200" width="8" height="8"/>
+    <electricBlock x="120" y="192" width="8" height="8"/>
+    <electricBlock x="128" y="184" width="8" height="8"/>
+    <electricBlock x="136" y="176" width="8" height="8"/>
+    <electricBlock x="144" y="168" width="8" height="8"/>
+    <electricBlock x="152" y="160" width="8" height="8"/>
+    <electricBlock x="160" y="152" width="8" height="8"/>
+    <electricBlock x="168" y="144" width="8" height="8"/>
+    <electricBlock x="176" y="136" width="8" height="8"/>
+    <electricBlock x="184" y="128" width="8" height="8"/>
+    <electricBlock x="192" y="120" width="8" height="8"/>
+    <electricBlock x="200" y="112" width="8" height="8"/>
+    <electricBlock x="208" y="104" width="8" height="8"/>
+    <electricBlock x="216" y="96" width="8" height="8"/>
+    <electricBlock x="224" y="88" width="8" height="8"/>
+    <electricBlock x="232" y="80" width="8" height="8"/>
+    <electricBlock x="240" y="72" width="8" height="8"/>
+    <electricBlock x="248" y="64" width="8" height="8"/>
+    <electricBlock x="256" y="56" width="8" height="8"/>
+    <electricBlock x="88" y="128" width="8" height="8"/>
+    <electricBlock x="80" y="136" width="8" height="8"/>
+    <electricBlock x="72" y="144" width="8" height="8"/>
+    <electricBlock x="64" y="152" width="8" height="8"/>
+    <electricBlock x="56" y="160" width="8" height="8"/>
+    <electricBlock x="48" y="168" width="8" height="8"/>
+    <electricBlock x="40" y="176" width="8" height="8"/>
+    <electricBlock x="96" y="120" width="8" height="8"/>
+    <electricBlock x="104" y="112" width="8" height="8"/>
+    <electricBlock x="112" y="104" width="8" height="8"/>
+    <electricBlock x="120" y="96" width="8" height="8"/>
+    <electricBlock x="128" y="88" width="8" height="8"/>
+    <electricBlock x="136" y="80" width="8" height="8"/>
+    <electricBlock x="144" y="72" width="8" height="8"/>
+    <electricBlock x="152" y="64" width="8" height="8"/>
+    <electricBlock x="160" y="56" width="8" height="8"/>
+    <electricBlock x="168" y="48" width="8" height="8"/>
+    <electricBlock x="176" y="40" width="8" height="8"/>
+    <electricBlock x="184" y="32" width="8" height="8"/>
+    <electricBlock x="192" y="24" width="8" height="8"/>
+    <electricBlock x="200" y="16" width="8" height="8"/>
+    <electricBlock x="208" y="8" width="8" height="8"/>
+    <movingPlat x="40" y="0" width="280" height="176" speed="1" dontMove="true" stopAtEnd="true">
+      <node x="40" y="-184"/>
+    </movingPlat>
+    <player x="8" y="224"/>
+  </objects>
+</level>

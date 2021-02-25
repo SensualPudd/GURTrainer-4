@@ -1,0 +1,49 @@
+<level>
+  <width>320</width>
+  <height>240</height>
+  <solids>
+    <rect x="0" y="0" w="24" h="40"/>
+    <rect x="0" y="64" w="40" h="32"/>
+    <rect x="0" y="96" w="16" h="144"/>
+    <rect x="16" y="224" w="32" h="16"/>
+    <rect x="40" y="80" w="240" h="8"/>
+    <rect x="256" y="152" w="64" h="16"/>
+    <rect x="256" y="224" w="64" h="16"/>
+    <rect x="304" y="0" w="16" h="152"/>
+  </solids>
+  <objects>
+    <movingPlat x="96" y="64" width="24" height="8" speed="1" dontMove="true" stopAtEnd="true">
+      <node x="96" y="24"/>
+    </movingPlat>
+    <movingPlat x="208" y="64" width="72" height="8" speed="1" dontMove="true" stopAtEnd="true">
+      <node x="208" y="24"/>
+    </movingPlat>
+    <player x="8" y="56"/>
+    <electricBlock x="40" y="72" width="240" height="8"/>
+    <electricBlock x="48" y="232" width="208" height="8"/>
+    <fallingPlat x="240" y="152" width="16" height="8"/>
+    <fallingPlat x="224" y="152" width="16" height="8"/>
+    <fallingPlat x="208" y="152" width="16" height="8"/>
+    <fallingPlat x="192" y="152" width="16" height="8"/>
+    <fallingPlat x="96" y="152" width="16" height="8"/>
+    <fallingPlat x="80" y="152" width="16" height="8"/>
+    <fallingPlat x="64" y="152" width="16" height="8"/>
+    <fallingPlat x="48" y="152" width="16" height="8"/>
+    <saw x="176" y="152" flip="false"/>
+    <saw x="160" y="152" flip="true"/>
+    <saw x="144" y="152" flip="false"/>
+    <saw x="128" y="152" flip="true"/>
+    <saw x="112" y="152" flip="false"/>
+    <electricBlock x="40" y="96" width="64" height="24"/>
+    <electricBlock x="200" y="96" width="80" height="24"/>
+    <electricBlock x="40" y="88" width="240" height="8"/>
+    <saw x="192" y="160" flip="true"/>
+    <saw x="216" y="160" flip="false"/>
+    <saw x="240" y="160" flip="true"/>
+    <saw x="96" y="160" flip="false"/>
+    <saw x="72" y="160" flip="true"/>
+    <saw x="48" y="160" flip="false"/>
+    <electricBlock x="96" y="0" width="24" height="24"/>
+    <electricBlock x="208" y="0" width="72" height="24"/>
+  </objects>
+</level>

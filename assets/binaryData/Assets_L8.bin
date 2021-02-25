@@ -1,0 +1,13 @@
+<level>
+  <width>320</width>
+  <height>240</height>
+  <solids>
+    <rect x="0" y="192" w="48" h="48"/>
+    <rect x="232" y="88" w="88" h="32"/>
+    <rect x="248" y="0" w="72" h="88"/>
+  </solids>
+  <objects>
+    <player x="8" y="184"/>
+    <saw x="104" y="112" flip="false"/>
+  </objects>
+</level>

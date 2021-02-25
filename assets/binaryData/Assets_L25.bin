@@ -1,0 +1,23 @@
+<level>
+  <width>320</width>
+  <height>240</height>
+  <solids>
+    <rect x="0" y="0" w="320" h="8"/>
+    <rect x="0" y="40" w="24" h="8"/>
+    <rect x="0" y="48" w="8" h="192"/>
+    <rect x="136" y="8" w="184" h="8"/>
+    <rect x="136" y="16" w="32" h="16"/>
+    <rect x="136" y="32" w="16" h="136"/>
+    <rect x="136" y="224" w="184" h="16"/>
+    <rect x="304" y="120" w="16" h="104"/>
+  </solids>
+  <objects>
+    <electricBlock x="120" y="8" width="16" height="160"/>
+    <electricBlock x="8" y="80" width="64" height="16"/>
+    <electricBlock x="72" y="8" width="48" height="16"/>
+    <electricBlock x="8" y="48" width="16" height="192"/>
+    <electricBlock x="72" y="152" width="48" height="16"/>
+    <saw x="264" y="144" flip="false"/>
+    <player x="8" y="32"/>
+  </objects>
+</level>

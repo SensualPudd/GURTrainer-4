@@ -1,0 +1,28 @@
+<level>
+  <width>1040</width>
+  <height>240</height>
+  <solids>
+    <rect x="0" y="104" w="40" h="24"/>
+    <rect x="0" y="128" w="32" h="16"/>
+    <rect x="0" y="144" w="24" h="16"/>
+    <rect x="0" y="160" w="16" h="16"/>
+    <rect x="0" y="176" w="8" h="16"/>
+  </solids>
+  <objects>
+    <player x="8" y="96"/>
+    <electricBlock x="144" y="24" width="16" height="16"/>
+    <electricBlock x="336" y="56" width="32" height="88"/>
+    <electricBlock x="368" y="56" width="16" height="64"/>
+    <electricBlock x="584" y="0" width="16" height="32"/>
+    <electricBlock x="600" y="0" width="16" height="128"/>
+    <electricBlock x="616" y="176" width="32" height="64"/>
+    <electricBlock x="648" y="168" width="16" height="72"/>
+    <electricBlock x="664" y="160" width="72" height="80"/>
+    <electricBlock x="736" y="144" width="16" height="96"/>
+    <electricBlock x="752" y="192" width="16" height="48"/>
+    <electricBlock x="584" y="56" width="16" height="72"/>
+    <electricBlock x="880" y="136" width="16" height="80"/>
+    <fallingPlat x="864" y="96" width="16" height="16"/>
+    <electricBlock x="584" y="184" width="32" height="56"/>
+  </objects>
+</level>

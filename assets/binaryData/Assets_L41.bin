@@ -1,0 +1,16 @@
+<level>
+  <width>320</width>
+  <height>240</height>
+  <solids>
+    <rect x="0" y="208" w="40" h="32"/>
+  </solids>
+  <objects>
+    <player x="8" y="200"/>
+    <saw x="64" y="120" flip="false"/>
+    <electricBlock x="144" y="56" width="24" height="16"/>
+    <saw x="224" y="136" flip="false"/>
+    <electricBlock x="304" y="0" width="16" height="72"/>
+    <electricBlock x="304" y="120" width="16" height="120"/>
+    <electricBlock x="152" y="72" width="8" height="168"/>
+  </objects>
+</level>

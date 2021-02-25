@@ -1,0 +1,14 @@
+<level>
+  <width>320</width>
+  <height>240</height>
+  <solids>
+    <rect x="0" y="152" w="48" h="88"/>
+    <rect x="272" y="152" w="48" h="88"/>
+  </solids>
+  <objects>
+    <movingPlat x="64" y="152" width="32" height="16" speed="2" dontMove="true" stopAtEnd="true">
+      <node x="224" y="152"/>
+    </movingPlat>
+    <player x="8" y="144"/>
+  </objects>
+</level>

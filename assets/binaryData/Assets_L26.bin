@@ -1,0 +1,17 @@
+<level>
+  <width>320</width>
+  <height>240</height>
+  <solids>
+    <rect x="0" y="216" w="24" h="24"/>
+  </solids>
+  <objects>
+    <player x="8" y="208"/>
+    <fallingPlat x="56" y="184" width="16" height="16"/>
+    <fallingPlat x="128" y="112" width="16" height="16"/>
+    <fallingPlat x="200" y="184" width="16" height="16"/>
+    <electricBlock x="304" y="112" width="16" height="128"/>
+    <electricBlock x="272" y="112" width="32" height="16"/>
+    <saw x="280" y="136" flip="false"/>
+    <electricBlock x="288" y="160" width="16" height="16"/>
+  </objects>
+</level>

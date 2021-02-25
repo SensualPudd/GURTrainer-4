@@ -1,0 +1,24 @@
+<level>
+  <width>320</width>
+  <height>240</height>
+  <solids>
+    <rect x="0" y="0" w="24" h="168"/>
+    <rect x="0" y="168" w="16" h="16"/>
+    <rect x="0" y="184" w="8" h="16"/>
+    <rect x="0" y="232" w="24" h="8"/>
+    <rect x="48" y="48" w="24" h="192"/>
+    <rect x="248" y="48" w="24" h="192"/>
+    <rect x="296" y="0" w="24" h="208"/>
+    <rect x="296" y="232" w="24" h="8"/>
+  </solids>
+  <objects>
+    <movingPlat x="24" y="232" width="24" height="8" speed="2" dontMove="true" stopAtEnd="true">
+      <node x="24" y="56"/>
+    </movingPlat>
+    <player x="8" y="224"/>
+    <movingPlat x="272" y="56" width="24" height="8" speed="2" dontMove="true" stopAtEnd="true">
+      <node x="272" y="232"/>
+    </movingPlat>
+    <saw x="152" y="48" flip="true"/>
+  </objects>
+</level>

@@ -1,0 +1,42 @@
+<level>
+  <width>1600</width>
+  <height>240</height>
+  <solids>
+    <rect x="0" y="32" w="24" h="208"/>
+    <rect x="24" y="120" w="24" h="120"/>
+    <rect x="984" y="32" w="8" h="40"/>
+    <rect x="1056" y="40" w="8" h="32"/>
+    <rect x="1128" y="48" w="8" h="24"/>
+    <rect x="1200" y="56" w="8" h="16"/>
+  </solids>
+  <objects>
+    <movingPlat x="80" y="64" width="8" height="8" speed="0.7" dontMove="true" stopAtEnd="true">
+      <node x="912" y="64"/>
+    </movingPlat>
+    <electricBlock x="128" y="0" width="16" height="80"/>
+    <electricBlock x="128" y="136" width="16" height="104"/>
+    <electricBlock x="192" y="0" width="16" height="96"/>
+    <electricBlock x="192" y="144" width="16" height="96"/>
+    <electricBlock x="256" y="0" width="16" height="80"/>
+    <electricBlock x="256" y="120" width="16" height="120"/>
+    <electricBlock x="320" y="0" width="16" height="112"/>
+    <electricBlock x="320" y="144" width="16" height="96"/>
+    <electricBlock x="384" y="0" width="16" height="104"/>
+    <electricBlock x="384" y="128" width="16" height="112"/>
+    <electricBlock x="576" y="48" width="16" height="192"/>
+    <electricBlock x="744" y="0" width="16" height="144"/>
+    <electricBlock x="744" y="168" width="16" height="72"/>
+    <electricBlock x="792" y="152" width="16" height="88"/>
+    <electricBlock x="792" y="0" width="16" height="128"/>
+    <electricBlock x="840" y="0" width="16" height="112"/>
+    <electricBlock x="840" y="136" width="16" height="104"/>
+    <saw x="544" y="96" flip="false"/>
+    <movingPlat x="1288" y="64" width="8" height="8" speed="0.2" dontMove="true" stopAtEnd="true">
+      <node x="1352" y="8"/>
+    </movingPlat>
+    <fallingPlat x="600" y="40" width="72" height="8"/>
+    <fallingPlat x="600" y="48" width="72" height="8"/>
+    <fallingPlat x="600" y="56" width="72" height="8"/>
+    <player x="8" y="24"/>
+  </objects>
+</level>

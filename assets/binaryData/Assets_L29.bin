@@ -1,0 +1,29 @@
+<level>
+  <width>320</width>
+  <height>240</height>
+  <solids>
+    <rect x="0" y="0" w="320" h="8"/>
+    <rect x="0" y="24" w="24" h="80"/>
+    <rect x="0" y="104" w="8" h="136"/>
+    <rect x="112" y="8" w="208" h="16"/>
+    <rect x="288" y="176" w="32" h="16"/>
+    <rect x="312" y="24" w="8" h="152"/>
+    <rect x="312" y="192" w="8" h="16"/>
+  </solids>
+  <objects>
+    <player x="8" y="16"/>
+    <movingPlat x="24" y="24" width="24" height="80" speed="0.5" dontMove="true" stopAtEnd="true">
+      <node x="288" y="24"/>
+    </movingPlat>
+    <electricBlock x="8" y="104" width="280" height="16"/>
+    <movingPlat x="8" y="224" width="24" height="8" speed="3" dontMove="true" stopAtEnd="true">
+      <node x="296" y="224"/>
+    </movingPlat>
+    <electricBlock x="32" y="192" width="280" height="16"/>
+    <electricBlock x="112" y="64" width="16" height="40"/>
+    <electricBlock x="272" y="24" width="40" height="40"/>
+    <electricBlock x="184" y="24" width="88" height="16"/>
+    <electricBlock x="128" y="88" width="88" height="16"/>
+    <electricBlock x="112" y="120" width="16" height="16"/>
+  </objects>
+</level>

@@ -1,0 +1,33 @@
+<level>
+  <width>1280</width>
+  <height>240</height>
+  <solids>
+    <rect x="0" y="56" w="24" h="32"/>
+    <rect x="0" y="88" w="16" h="152"/>
+  </solids>
+  <objects>
+    <player x="8" y="48"/>
+    <electricBlock x="168" y="80" width="16" height="64"/>
+    <electricBlock x="168" y="192" width="16" height="48"/>
+    <saw x="168" y="56" flip="true"/>
+    <electricBlock x="304" y="80" width="16" height="160"/>
+    <electricBlock x="424" y="80" width="16" height="56"/>
+    <electricBlock x="424" y="176" width="16" height="64"/>
+    <saw x="424" y="56" flip="true"/>
+    <electricBlock x="168" y="0" width="16" height="48"/>
+    <electricBlock x="424" y="0" width="16" height="48"/>
+    <electricBlock x="544" y="80" width="16" height="160"/>
+    <electricBlock x="640" y="80" width="16" height="40"/>
+    <electricBlock x="640" y="160" width="16" height="80"/>
+    <saw x="640" y="56" flip="true"/>
+    <electricBlock x="640" y="0" width="16" height="48"/>
+    <electricBlock x="736" y="80" width="16" height="160"/>
+    <electricBlock x="816" y="0" width="16" height="48"/>
+    <saw x="816" y="56" flip="true"/>
+    <electricBlock x="816" y="80" width="16" height="24"/>
+    <electricBlock x="816" y="144" width="16" height="96"/>
+    <electricBlock x="896" y="80" width="16" height="160"/>
+    <saw x="1016" y="112" flip="true"/>
+    <electricBlock x="1136" y="0" width="144" height="104"/>
+  </objects>
+</level>

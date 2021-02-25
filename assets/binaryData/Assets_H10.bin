@@ -1,0 +1,25 @@
+<level>
+  <width>320</width>
+  <height>1600</height>
+  <solids>
+    <rect x="0" y="0" w="320" h="16"/>
+    <rect x="0" y="16" w="56" h="16"/>
+    <rect x="0" y="32" w="40" h="1488"/>
+    <rect x="0" y="1552" w="72" h="48"/>
+    <rect x="40" y="80" w="32" h="1408"/>
+    <rect x="40" y="1488" w="16" h="16"/>
+    <rect x="72" y="1584" w="248" h="16"/>
+    <rect x="248" y="80" w="72" h="1408"/>
+    <rect x="248" y="1552" w="72" h="32"/>
+    <rect x="264" y="16" w="56" h="16"/>
+    <rect x="264" y="1488" w="56" h="16"/>
+    <rect x="280" y="32" w="40" h="16"/>
+    <rect x="280" y="1504" w="40" h="48"/>
+  </solids>
+  <objects>
+    <movingPlat x="72" y="1536" width="176" height="48" speed="6" dontMove="true" stopAtEnd="true">
+      <node x="72" y="80"/>
+    </movingPlat>
+    <player x="8" y="1544"/>
+  </objects>
+</level>

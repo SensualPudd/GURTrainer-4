@@ -1,0 +1,33 @@
+<level>
+  <width>320</width>
+  <height>720</height>
+  <solids>
+    <rect x="0" y="0" w="40" h="16"/>
+    <rect x="0" y="32" w="40" h="16"/>
+    <rect x="0" y="48" w="24" h="672"/>
+    <rect x="24" y="656" w="16" h="64"/>
+    <rect x="40" y="696" w="280" h="24"/>
+    <rect x="280" y="0" w="40" h="48"/>
+    <rect x="280" y="656" w="40" h="16"/>
+    <rect x="296" y="48" w="24" h="608"/>
+  </solids>
+  <objects>
+    <player x="8" y="24"/>
+    <electricBlock x="40" y="136" width="152" height="16"/>
+    <electricBlock x="232" y="136" width="48" height="224"/>
+    <fallingPlat x="40" y="0" width="240" height="16"/>
+    <fallingPlat x="40" y="152" width="152" height="16"/>
+    <electricBlock x="128" y="256" width="104" height="16"/>
+    <electricBlock x="40" y="256" width="56" height="104"/>
+    <fallingPlat x="128" y="272" width="104" height="16"/>
+    <electricBlock x="40" y="360" width="128" height="112"/>
+    <electricBlock x="192" y="360" width="88" height="16"/>
+    <fallingPlat x="40" y="472" width="216" height="16"/>
+    <electricBlock x="88" y="640" width="192" height="32"/>
+    <electricBlock x="40" y="640" width="32" height="32"/>
+    <fallingPlat x="192" y="376" width="88" height="16"/>
+    <electricBlock x="24" y="48" width="16" height="608"/>
+    <electricBlock x="280" y="48" width="16" height="608"/>
+    <electricBlock x="168" y="456" width="88" height="16"/>
+  </objects>
+</level>
