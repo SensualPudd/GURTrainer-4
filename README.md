@@ -20,5 +20,5 @@ Welcome to the long needed GUR Trainer 4.0. This is a version that mostly just b
 
 
 <a download="custom-filename.jpg" href="google.com" title="Download">
-    <img src="/%40Resources/Pink.png"> text="DOWNLOAD"
+    <img src="/%40Resources/DOWNLOAD.png">"
 </a>
