@@ -1,0 +1,15 @@
+
+{
+	"OPTIONS":
+	{
+		"FULLSCREEN":false,
+		"GAME_TIMER":false,
+		"MUSIC":1.0,
+		"PARTICLES":true,
+		"SAVE_REPLAY":false,
+		"SHOW_IL_TIMES":false,
+		"SHOW_SEGMENT_TIME":false,
+		"SOUNDS":1.0
+	},
+	"VERSION":"2021.02.13_0"
+}

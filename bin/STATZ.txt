@@ -1,0 +1,14 @@
+
+{
+	"LEVELS":
+	{
+		"HARD":[],
+		"NORMAL":[]
+	},
+	"LEVELS_SEGMENT":
+	{
+		"HARD":{},
+		"NORMAL":{}
+	},
+	"VERSION":"2021.02.13_0"
+}
