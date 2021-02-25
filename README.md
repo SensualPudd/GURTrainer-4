@@ -25,4 +25,5 @@ Welcome to the long needed GUR Trainer 4.0. This is a version that mostly just b
 <a href="https://discord.gg/WDxyqPB" title="DISCORD">
     <img src="/%40Resources/blue.png">
 </a>
+<br></br>
 <a href="https://www.buymeacoffee.com/sensualpudding"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a roll of ducktape&emoji=🦆&slug=sensualpudding&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
