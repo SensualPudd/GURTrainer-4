@@ -5,7 +5,7 @@ Please consider checking out the wiki for all information you'll ever need.
 
 ## LINKS
 
-<a href="" title="Download">
+<a href="https://www.speedrun.com/tools/GURTrainer_3b7q6.zip" title="Download">
     <img src="/%40Resources/DOWNLOAD.png">
 </a>
 <a href="https://discord.gg/WDxyqPB" title="DISCORD">
